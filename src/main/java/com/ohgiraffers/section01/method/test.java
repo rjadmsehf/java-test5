@@ -19,7 +19,7 @@ public class test {
             사용할이름 메소드명();
          */
 
-        test app1 = new test ();
+        test app1 = new test();
         app1.methodA();
 
 
