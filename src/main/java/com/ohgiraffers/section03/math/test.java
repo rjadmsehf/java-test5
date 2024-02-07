@@ -17,6 +17,8 @@ public class test {
 
         int result1 = random.nextInt(21) + 20;
 
+        int result2 = random.nextInt(24) + 10;
         System.out.println("result1 = " + result1);
+        System.out.println("result2 = " + result2);
     }
 }
